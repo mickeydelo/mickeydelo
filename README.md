@@ -1,2 +1,1 @@
-- Minimal James Webb Space Telescope distance completion app
-- Data from NASA API -> https://api.jwst-hub.com/track
+- Goodbye World
